@@ -5,8 +5,8 @@ Hello
 
 
 
-| Week  | Lab Topic         |       
-|------:|-------------------|
-| Week 1|Starting Linux     |
-| Week 2|Command Line Basics|
-| Week 3|MarkDown           |
+| Week  | Lab Topic         | Project   |
+|------:|-------------------|-----------|
+| Week 1|Starting Linux     |-          |
+| Week 2|Command Line Basics|-          |
+| Week 3|MarkDown           |This Readme|
